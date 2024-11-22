@@ -1,0 +1,10 @@
+nction setup(
+createCanvas (400
+57 function draw() (
+(0);
+7 circle(300,200,15)
+8
+t
+h
+
+400);
